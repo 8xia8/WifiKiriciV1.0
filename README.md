@@ -9,9 +9,9 @@ python3 WifiKırıcı\ V1.0.py
 Kali Linux,Monitor Ve Managed Mod Uyumlu Wi-Fi Kartı
 
 # Özellikler
-WPA/WPA2 Handshake Yakalama
+WPA,WPA2 Handshake Yakalama
 Wordlist Oluşturma
-Wordlist Ile WPA/WPA2 Kırma
+Wordlist Ile WPA,WPA2 Kırma
 Yakında Daha Fazlası...
 
 # Wifi Kırıcıdan Görüntü
