@@ -1,5 +1,13 @@
 # WifiKiriciV1.0
 
+# Neden Wifi Kırıcı
+Neden'Wifi Kırıcı'
+Evet, Bu Programın Yaptığını Kali Linuxtaki Programlarda Yapıyor Ama
+Wordlist Oluşturma , Wpa2,Wpa kırmak İçin Uzun Uzun Komutları Yazmak Yerine
+Tek Bir Program İle Komut Yazmadan Bunları Yapabilirsin
+
+'Wifi Kırıcının' Bir Diğer Avantajı İse Türkçe Arayüzü Olmasıdır
+
 # Nasıl Açılır
 cd WifiKiriciV1.0
 
