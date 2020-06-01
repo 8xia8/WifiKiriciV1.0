@@ -6,6 +6,9 @@ cd WifiKiriciV1.0
 python3 WifiKırıcı\ V1.0.py
 
 # Gereksinimler
+Kali Linux İşletim Sistemi , Python3 , aircrack-ng , airodump-ng , crunch
+
+Bunlar Kali Linuxta Hazır Olarak Geliyor Ama Eski Bir Kali Linux Sürmü Kullanıyorsanız Bunlarda Biri Yada İkisi Olmayabilir
 
 # Özellikler
 WPA,WPA2 Handshake Yakalama
