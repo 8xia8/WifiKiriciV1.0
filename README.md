@@ -8,7 +8,9 @@ Tek Bir Program İle Komut Yazmadan Bunları Yapabilirsin
 
 'Wifi Kırıcının' Bir Diğer Avantajı İse Türkçe Arayüzü Olmasıdır
 
-# Nasıl Açılır
+# Nasıl Açılır & İndirilir
+git clone https://github.com/8xia8/WifiKiriciV1.0.git
+
 cd WifiKiriciV1.0
 
 python3 WifiKırıcı\ V1.0.py
