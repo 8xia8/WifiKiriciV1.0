@@ -8,6 +8,8 @@ python3 WifiKırıcı\ V1.0.py
 # Gereksinimler
 Kali Linux,Monitor Ve Managed Mod Uyumlu Wi-Fi Kartı
 
+Kali Linuxta Python3 Yüklü Olması
+
 # Özellikler
 WPA,WPA2 Handshake Yakalama
 
