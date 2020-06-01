@@ -10,8 +10,11 @@ Kali Linux,Monitor Ve Managed Mod Uyumlu Wi-Fi Kartı
 
 # Özellikler
 WPA,WPA2 Handshake Yakalama
+
 Wordlist Oluşturma
+
 Wordlist Ile WPA,WPA2 Kırma
+
 Yakında Daha Fazlası...
 
 # Wifi Kırıcıdan Görüntü
